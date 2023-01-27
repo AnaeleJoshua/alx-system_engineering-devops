@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+# uses while loop to print 10times
+((i=0))
+while ((i<10)); do
+	echo Best School
+	((i=i+1))
+done
