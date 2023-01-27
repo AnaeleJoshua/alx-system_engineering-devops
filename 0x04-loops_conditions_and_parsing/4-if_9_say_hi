@@ -9,3 +9,4 @@ while [ $count -le 10 ]; do
 	fi
 	((i++))
 done
+echo
