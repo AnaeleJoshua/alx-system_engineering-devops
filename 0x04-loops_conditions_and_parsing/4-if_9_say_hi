@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+# uses while to print 10times with an exception if ...
+count=0
+while [ $count -le 10 ]; do
+	echo Best School
+	if [&x -le 10 ]
+	then
+		echo -e "Best School \n hi"
+	fi
+	((i++))
+done
+echo
